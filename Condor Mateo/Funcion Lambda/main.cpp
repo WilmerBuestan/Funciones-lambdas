@@ -1,3 +1,13 @@
+/*	UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+		INGENIERA DE SOFTWARE
+                
+	AUTOR:
+		Mateo Javier Condor Sosa 	 	      
+	FECHA DE CREACION:
+		14/12/2022         	
+	FECHA DE MODIFICACION:
+		16/12/2022   
+*/
 #include <iostream>
 
 using namespace std;
