@@ -1,3 +1,14 @@
+/* 
+UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE 
+Alumnos: Paola Moncayo
+Fecha de Creación: 16/12/2022
+Fechade Modificación: 17/12/2022
+Enunciado: Operaciones funciones lambda
+NRC: 7999
+*/
+
+
+
 #include <algorithm>
 #include <array>
 #include <iostream>
