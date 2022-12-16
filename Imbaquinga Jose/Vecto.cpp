@@ -21,7 +21,7 @@ int main()
 
     forEach(myVector, [&](int e){
         if(e % 2 == 0) externalVector.push_back(e);
-    }); // externalVector = { 2, 4, 6 }
+    }); // externalVector = { 2, 4, 6 ,8,10,12,14}
 
     forEach(externalVector, [](int e){
         std::cout << e << "-";
