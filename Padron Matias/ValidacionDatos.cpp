@@ -1,9 +1,10 @@
+
 /***********************************************************************
 UFA - ESPE
-AUTORES: Matías Padrón,Sebastian Torres
-FECHA DE CREACIÓN: 17/11/2022
-FECHA DE MODIFICACIÓN: 17/11/2022
-Tarea9: Lista Simple 
+AUTORES: Matías Padrón
+FECHA DE CREACIÓN: 15/12/2022
+FECHA DE MODIFICACIÓN: 15/12/2022
+TareaIndividual_Lamba
 GITHUB: Padron-Torres-Primer-Parcial-Estructuras
  ***********************************************************************/
 #include"ValidacionDatos.h"
