@@ -1,9 +1,10 @@
+
 /***********************************************************************
 UFA - ESPE
-AUTORES: Matías Padrón,Sebastian Torres
-FECHA DE CREACIÓN: 10/11/2022
-FECHA DE MODIFICACIÓN: 10/11/2022
-Tarea7: Operaciones Matriz con memoria estática
+AUTORES: Matías Padrón
+FECHA DE CREACIÓN: 15/12/2022
+FECHA DE MODIFICACIÓN: 15/12/2022
+TareaIndividual_Lamba
 GITHUB: Padron-Torres-Primer-Parcial-Estructuras
  ***********************************************************************/
 #include"LecturaDatos.h"
