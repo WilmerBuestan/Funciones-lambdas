@@ -1,10 +1,10 @@
 /***********************************************************************
  * UFA - ESPE
  * Students:  Luis Burbano
- * Module:  F.hpp
- * Created: Sabado, 19 de noviembre de 2022 10:51:00
- * Modified: Lunes, 21 de noviembre de 2022 02:11:31
- * Problem: Correcion de la prueba parcial 1 con recursividad
+ * Module:  Funciones.hpp
+ * Created: Miercoles, 14 de noviembre de 2022 16:51:00
+ * Modified: Viernes, 16 de noviembre de 2022 00:11:31
+ * Problem: Funciones lambda
  * Level: Level three
  * NRC: 7999
  ***********************************************************************/
