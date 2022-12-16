@@ -68,9 +68,9 @@ int main()
 		valor=atoi(dato1);
 		arr.insertar(valor);
     } while (arr.confirmar("\n>Desea agregar otro numero?"));
-	std::cout<<"\n>Lista Desordenada"<<endl;
-	imprimir();
-	std::cout<<"\n>Lista ordenada"<<endl;
+    std::cout<<"\n>Lista Desordenada"<<endl;
+    imprimir();
+    std::cout<<"\n>Lista ordenada"<<endl;
     radixsort(); 
     imprimir(); 
     return 0; 
